@@ -14,7 +14,7 @@ let g:colors_name="uochan"
 hi Normal      guifg=#ffffff    guibg=#000000
 hi Comment     guifg=#3369ab    guibg=NONE
 hi Constant    guifg=#b359b3    guibg=NONE
-hi String      guifg=#c09dd4    guibg=NONE
+hi String      ctermfg=magenta guifg=#c09dd4    guibg=NONE
 hi htmlTagName guifg=#bdbdbd    guibg=NONE
 hi Identifier  guifg=#ffffff    guibg=NONE
 hi Statement   guifg=#ffffff    guibg=NONE
